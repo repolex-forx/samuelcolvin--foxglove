@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "foxglove",
+  "versions": [
+    {
+      "commit": "23fa53c7c6b75c2bf90e43e1260d67fe14098a25",
+      "tag": "v0.0.39",
+      "parsed_at": "2026-10-11T21:54:59.109680+00:00"
+    }
+  ]
+}
