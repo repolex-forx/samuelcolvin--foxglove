@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/foxglove/commit/23fa53c7c6b75c2bf90e43e1260d67fe14098a25",
       "git:hexsha": "23fa53c7c6b75c2bf90e43e1260d67fe14098a25",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.0.39"
     },
     {
