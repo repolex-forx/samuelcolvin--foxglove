@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/foxglove/commit/23fa53c7c6b75c2bf90e43e1260d67fe14098a25",
       "git:hexsha": "23fa53c7c6b75c2bf90e43e1260d67fe14098a25",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.0.39"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.0.39",
+      "repolex:parsedAt": "2026-10-11T21:54:59.105722+00:00"
     },
     {
       "@id": "https://repolex.ai/r/samuelcolvin/foxglove/commit/02707fd1cb1e2df3fee793083e91eeab61bb84ee",
